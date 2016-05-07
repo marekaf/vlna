@@ -1,5 +1,5 @@
 # vlna
-Docker image pro program vlna, naprogramovaný RNDr. Petrem Olšákem. http://petr.olsak.net/ftp/olsak/vlna/
+Docker image for program "vlna", programmed by RNDr. Petr Olšák. http://petr.olsak.net/ftp/olsak/vlna/
 
 [![](https://imagelayers.io/badge/bartimar/vlna:latest.svg)](https://imagelayers.io/?images=bartimar/vlna:latest 'Get your own badge on imagelayers.io')
 
