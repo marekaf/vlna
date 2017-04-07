@@ -6,7 +6,7 @@ Docker image for program "vlna", programmed by RNDr. Petr Olšák. http://petr.o
 use vlna to process your latex file 
 
 ```
-docker run -it --rm -v "$(pwd):/src" bartimar/steghide -r /src/test.tex
+docker run -it --rm -v "$(pwd):/src" bartimar/vlna -r /src/test.tex
 ```
 See vlna's manual>
 
